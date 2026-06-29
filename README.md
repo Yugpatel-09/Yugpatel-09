@@ -16,16 +16,39 @@
 
 ### &nbsp;`#` &nbsp;hello world
 
-Hey, I'm **Yug** — a Computer Science student from India who refuses to pick a lane.
+<table border="0">
+<tr>
+<td width="58%" valign="top">
+
+<br>
+
+Hey, I'm **Yug** &nbsp;👋 &nbsp;— a Computer Science student from India who refuses to pick a lane.
 
 I'm fascinated by the entire stack: training models, designing interfaces, wiring up backends, shipping mobile. I move fast, build often, and treat every new domain as just another language to become fluent in.
 
-```yaml
-focus:     [ AI/ML, web, backend, mobile ]
-mantra:    curious about everything, committed to shipping
-fueled by: coffee · curiosity · loud music
-open to:   internships · oss collabs · weekend hackathons
-```
+<br>
+
+> &nbsp;*curious about everything · committed to shipping*
+
+</td>
+<td width="42%" valign="middle" align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&width=440&height=240&lines=%3E+based+in+India+%F0%9F%87%AE%F0%9F%87%B3;%3E+computer+science+student;%3E+polymath+in+progress;%3E+coffee-powered+%E2%98%95;%3E+ships+code+often+%F0%9F%9A%80;%3E+open+to+collab" alt="identity card" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="160">📍<br><b>India</b><br><sub>based in</sub></td>
+    <td align="center" width="160">🎓<br><b>CS Student</b><br><sub>current role</sub></td>
+    <td align="center" width="160">🛠️<br><b>Full Stack + AI</b><br><sub>building across</sub></td>
+    <td align="center" width="160">🤝<br><b>OSS · Internships</b><br><sub>open to</sub></td>
+  </tr>
+</table>
 
 <br>
 
