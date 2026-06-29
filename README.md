@@ -77,21 +77,25 @@ open to:   internships · oss collabs · weekend hackathons
 
 <br>
 
-<!-- ════════════════════════  GITHUB  ════════════════════════ -->
+<!-- ════════════════════════  GITHUB DATA  ════════════════════════ -->
 
-### &nbsp;`#` &nbsp;github in motion
+### &nbsp;`#` &nbsp;by the numbers
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yugpatel-09&hide_border=true&background=0D1117&stroke=00F0FF&ring=B026FF&fire=FF006E&currStreakLabel=00F0FF&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
+  <img width="49%" src="https://raw.githubusercontent.com/Yugpatel-09/Yugpatel-09/main/profile-summary-card-output/radical/3-stats.svg" alt="stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Yugpatel-09&hide_border=true&background=0D1117&stroke=00F0FF&ring=B026FF&fire=FF006E&currStreakLabel=00F0FF&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/Yugpatel-09/Yugpatel-09/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="most used language" />
+  <img width="49%" src="https://raw.githubusercontent.com/Yugpatel-09/Yugpatel-09/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="repos per language" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://raw.githubusercontent.com/Yugpatel-09/Yugpatel-09/main/profile-summary-card-output/radical/4-productive-time.svg" alt="productive time" />
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugpatel-09&bg_color=0D1117&color=00F0FF&line=FF006E&point=B026FF&area=true&area_color=00F0FF&hide_border=true&custom_title=contribution%20signal" alt="activity graph" width="100%" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yugpatel-09/Yugpatel-09/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yugpatel-09/Yugpatel-09/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Yugpatel-09/Yugpatel-09/output/github-contribution-grid-snake.svg" />
-</picture>
 
 <br>
 <br>
