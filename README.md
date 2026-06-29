@@ -9,7 +9,7 @@
 <div align="center">
 
 <a href="https://github.com/Yugpatel-09">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=%24+whoami;Computer+Science+Student;AI%2FML+Engineer+in+Training;Full-Stack+Web+Developer;Backend+%26+Systems+Tinkerer;Mobile+App+Builder;Polymath+in+Progress." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=00F0FF&center=true&vCenter=true&multiline=false&width=720&height=45&lines=%24+whoami;Computer+Science+Student;AI%2FML+Engineer+in+Training;Full-Stack+Web+Developer;Backend+%26+Systems+Tinkerer;Mobile+App+Builder;Polymath+in+Progress." alt="typing" />
 </a>
 
 <br/>
@@ -25,10 +25,6 @@
 </a>
 
 </div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Yugpatel-09/Yugpatel-09/output/pacman-contribution-graph.svg" alt="pacman contribution graph" width="100%" />
 
 <br/>
 
@@ -130,28 +126,18 @@ const yug = {
 <div align="center">
 
 <a href="https://github.com/Yugpatel-09">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yugpatel-09&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF006E&text_color=ffffff&ring_color=B026FF" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yugpatel-09&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF006E&text_color=ffffff" alt="stats" />
 </a>
 <a href="https://github.com/Yugpatel-09">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Yugpatel-09&hide_border=true&background=0D1117&stroke=00F0FF&ring=B026FF&fire=FF006E&currStreakLabel=00F0FF&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Yugpatel-09&hide_border=true&background=0D1117&stroke=00F0FF&ring=B026FF&fire=FF006E&currStreakLabel=00F0FF&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
 </a>
 
+<br/>
 <br/>
 
 <a href="https://github.com/Yugpatel-09">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugpatel-09&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff&langs_count=8" alt="top langs" />
 </a>
-<a href="https://github.com/Yugpatel-09">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yugpatel-09&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff&layout=compact" alt="wakatime" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yugpatel-09&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" width="100%" />
 
 </div>
 
@@ -172,22 +158,6 @@ const yug = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yugpatel-09/Yugpatel-09/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yugpatel-09/Yugpatel-09/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<br/>
-
-<!-- ──────────────────────────  NOW_PLAYING  ────────────────────────── -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:FF006E&height=3&section=header" alt="divider" />
-
-## `>` NOW_PLAYING
-
-<div align="center">
-
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00F0FF&bar_color_cover=false" alt="spotify now playing" />
-</a>
-
-</div>
 
 <br/>
 
