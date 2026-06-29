@@ -81,18 +81,23 @@ open to:   internships · oss collabs · weekend hackathons
 
 ### &nbsp;`#` &nbsp;by the numbers
 
+<sub align="center">&nbsp;&nbsp;&nbsp;<i>auto-refreshes every 6 hours and on every commit — these numbers are alive</i></sub>
+
+<br>
+<br>
+
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/Yugpatel-09/Yugpatel-09/main/profile-summary-card-output/radical/3-stats.svg" alt="stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Yugpatel-09&hide_border=true&background=0D1117&stroke=00F0FF&ring=B026FF&fire=FF006E&currStreakLabel=00F0FF&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
+  <img width="540" src="https://raw.githubusercontent.com/Yugpatel-09/Yugpatel-09/main/profile-summary-card-output/radical/3-stats.svg" alt="github stats" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/Yugpatel-09/Yugpatel-09/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="most used language" />
-  <img width="49%" src="https://raw.githubusercontent.com/Yugpatel-09/Yugpatel-09/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="repos per language" />
+  <img width="540" src="https://streak-stats.demolab.com/?user=Yugpatel-09&hide_border=true&background=0D1117&stroke=00F0FF&ring=B026FF&fire=FF006E&currStreakLabel=00F0FF&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/Yugpatel-09/Yugpatel-09/main/profile-summary-card-output/radical/4-productive-time.svg" alt="productive time" />
+  <img width="48%" src="https://raw.githubusercontent.com/Yugpatel-09/Yugpatel-09/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="top languages by commit" />
+  &nbsp;
+  <img width="48%" src="https://raw.githubusercontent.com/Yugpatel-09/Yugpatel-09/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="top languages by repo" />
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugpatel-09&bg_color=0D1117&color=00F0FF&line=FF006E&point=B026FF&area=true&area_color=00F0FF&hide_border=true&custom_title=contribution%20signal" alt="activity graph" width="100%" />
